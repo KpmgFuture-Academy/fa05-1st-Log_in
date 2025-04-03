@@ -8,7 +8,7 @@ KPMG_future_academy05_login 첫 번째 프로젝트
 ### 1. 프로젝트 주제: **중소기업과 구직자의 Matching 플랫폼**
 ### 2. 프로젝트 목표: AI 기반으로 구직자와 중소기업의 맞춤형 매칭 제공
 - 구직자를 위한 메인페이지
-![대표페이지](docs/careerpath page.jpg)
+![대표페이지](docs/careerpath_page.jpg)
 - 커리어패스 챗봇 응답페이지
 ![커리어패스 서비스](docs/careerpath.jpg)
 
