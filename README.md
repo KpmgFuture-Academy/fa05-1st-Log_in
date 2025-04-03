@@ -1,9 +1,5 @@
 # fa05-1st-Login
 KPMG_future_academy05_login 첫 번째 프로젝트
-
-![대표페이지](images/page.jpg)
-
-![커리어패스 서비스](images/careerpath.jpg)
 -----------------
 
 # 프로젝트 기획서
@@ -11,6 +7,11 @@ KPMG_future_academy05_login 첫 번째 프로젝트
 ## 1. 프로젝트 개요
 ### 1. 프로젝트 주제: **중소기업과 구직자의 Matching 플랫폼**
 ### 2. 프로젝트 목표: AI 기반으로 구직자와 중소기업의 맞춤형 매칭 제공
+- 구직자를 위한 메인페이지
+![대표페이지](docs/careerpath page.jpg)
+- 커리어패스 챗봇 응답페이지
+![커리어패스 서비스](docs/careerpath.jpg)
+
 ### 3. 주요 기능
 - 역량기반 직무추천
 - 직무기반 기업추천
@@ -31,7 +32,7 @@ KPMG_future_academy05_login 첫 번째 프로젝트
 | 최종 검토 및 프로젝트 발표    | 2025-04-01 | 2025-04-01 | 1       |
 
 ## 3. 시각적 자료
-![프로젝트 계획서](images/project.png)
+![프로젝트 계획서](docs/project.png)
 
 # 요구사항 정의서
 
@@ -48,14 +49,14 @@ KPMG_future_academy05_login 첫 번째 프로젝트
 
 # 프로젝트 설계서
 ## 1. 시스템 아키텍쳐
-![시스템 아키텍쳐](images/Architecture.png)
+![시스템 아키텍쳐](docs/Architecture.png)
 
 ## 2. ERD 계획서
-![ERD 계획서1](images/ERD.png)
-![ERD 계획서2](images/ERD2.png)
+![ERD 계획서1](docs/ERD.png)
+![ERD 계획서2](docs/ERD2.png)
 
 ## 3. 1차 WBS
-![WBS](images/wbs.png)
+![WBS](docs/wbs.png)
 
 # 발표 자료
 ## 📄 PDF Report
